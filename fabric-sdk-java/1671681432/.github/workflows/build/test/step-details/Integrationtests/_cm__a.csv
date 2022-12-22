@@ -1,0 +1,7 @@
+,file_name
+2,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/failsafe-reports/TEST-org.hyperledger.fabric.sdkintegration.IntegrationSuite.xml
+35,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/org.hyperledger.fabric.sdk.helper/Config.java.html
+741,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/jacoco-resources/report.css
+767,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/surefire-reports/org.hyperledger.fabric_ca.sdk.HFCACertificateRequestTest.txt
+1025,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/org.hyperledger.fabric.sdk.transaction/LifecycleInstallProposalBuilder.java.html
+1029,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/org.hyperledger.fabric_ca.sdk.helper/Util.java.html
