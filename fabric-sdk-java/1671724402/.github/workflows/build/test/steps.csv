@@ -1,4 +1,4 @@
 ,step_name,#c,#m,cma,cm_a,cm__a,c_ma,c_m_a,c_m__a,_cma,_cm_a,_cm__a,_c_ma,_c_m_a,_c_m__a,time
-0,uses26,1230,1236,0,0,1230,0,0,0,0,0,6,0,0,656,2
-1,SetupJDKmatrixjavaversion,0,0,0,0,0,0,0,0,0,0,0,0,0,1892,3
-2,Integrationtests,645,656,0,0,645,0,0,0,0,0,11,0,0,1236,767
+0,uses26,744,747,0,0,744,0,0,0,0,0,3,0,16,1960,2
+1,SetupJDKmatrixjavaversion,0,0,0,0,0,0,0,0,0,0,0,0,16,2707,3
+2,Integrationtests,1930,1976,11,0,1919,0,0,0,5,0,41,0,0,747,1133
