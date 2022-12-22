@@ -1,0 +1,13 @@
+,file_name
+309,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/common/Configuration.java
+345,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/ChaincodeShim.java
+355,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/Peer.java
+360,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/Resources.java
+361,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/etcdraft/Metadata.java
+362,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/Kafka.java
+364,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/Configuration.java
+382,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/ClusterOuterClass.java
+443,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/SignedCcDepSpec.java
+665,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/grpc-java/org/hyperledger/fabric/protos/peer/ChaincodeSupportGrpc.java
+672,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/lifecycle/Db.java
+1106,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/grpc-java/org/hyperledger/fabric/protos/orderer/ClusterGrpc.java
