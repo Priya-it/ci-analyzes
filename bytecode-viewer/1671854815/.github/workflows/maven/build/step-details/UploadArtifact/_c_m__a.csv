@@ -4,41 +4,41 @@
 2,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/Krakatau-11.zip
 3,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 4,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-5,/home/runner/work/bytecode-viewer/bytecode-viewer/LICENSE
-6,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
-7,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
-8,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo.class
-9,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$1.class
-10,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$IconEntry.class
-11,/home/runner/work/bytecode-viewer/bytecode-viewer/README.md
-12,/home/runner/work/bytecode-viewer/bytecode-viewer/VERSION
-13,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_install BCV.bat
-14,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_uninstall BCV.bat
-15,/home/runner/work/bytecode-viewer/bytecode-viewer/install/jar2exe_config.j2e
-16,/home/runner/work/bytecode-viewer/bytecode-viewer/install/launch4j_config.xml
-17,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/README.md
-18,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.jar.md5
-19,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.pom.md5
-20,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml
-21,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml.md5
-22,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml.sha1
-23,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.jar.md5
-24,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.pom.md5
-25,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml
-26,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml.md5
-27,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml.sha1
-28,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/ExampleStringDecrypter.gy
-29,/home/runner/work/bytecode-viewer/bytecode-viewer/SECURITY.md
-30,/home/runner/work/bytecode-viewer/bytecode-viewer/CREDITS.md
-31,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/ExampleStringDecrypter.java
-32,/home/runner/work/bytecode-viewer/bytecode-viewer/CONTRIBUTING.md
+5,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$IconEntry.class
+6,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$1.class
+7,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo.class
+8,/home/runner/work/bytecode-viewer/bytecode-viewer/LICENSE
+9,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+10,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+11,/home/runner/work/bytecode-viewer/bytecode-viewer/VERSION
+12,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_uninstall BCV.bat
+13,/home/runner/work/bytecode-viewer/bytecode-viewer/install/jar2exe_config.j2e
+14,/home/runner/work/bytecode-viewer/bytecode-viewer/install/launch4j_config.xml
+15,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/README.md
+16,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.jar.md5
+17,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.pom.md5
+18,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml
+19,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml.md5
+20,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml.sha1
+21,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.jar.md5
+22,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.pom.md5
+23,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml
+24,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml.md5
+25,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml.sha1
+26,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/ExampleStringDecrypter.gy
+27,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/Skeleton.gy
+28,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/ExampleStringDecrypter.java
+29,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_install BCV.bat
+30,/home/runner/work/bytecode-viewer/bytecode-viewer/SECURITY.md
+31,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/XposedGenerator.java
+32,/home/runner/work/bytecode-viewer/bytecode-viewer/README.md
 33,/home/runner/work/bytecode-viewer/bytecode-viewer/.github/workflows/maven.yml
 34,/home/runner/work/bytecode-viewer/bytecode-viewer/.gitignore
 35,/home/runner/work/bytecode-viewer/bytecode-viewer/BCV Icon.ico
 36,/home/runner/work/bytecode-viewer/bytecode-viewer/BCV Icon.png
-37,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/Skeleton.gy
-38,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/Skeleton.java
-39,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/XposedGenerator.java
+37,/home/runner/work/bytecode-viewer/bytecode-viewer/CONTRIBUTING.md
+38,/home/runner/work/bytecode-viewer/bytecode-viewer/CREDITS.md
+39,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/Skeleton.java
 40,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExamplePrintClassesPlugin.js
 41,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExampleStringDecrypter.js
 42,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/Skeleton.js
