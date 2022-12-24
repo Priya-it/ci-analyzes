@@ -1,0 +1,46 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/bytecode-viewer/bytecode-viewer/target/Bytecode-Viewer-2.11.2-shaded.jar,-1,28855,21429,Not provided,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/enjarify-4.zip,-1,1674,1650,Not provided,uses20,uses20
+2,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/Krakatau-11.zip,-1,1644,-1,Not provided,uses20,Not provided
+3,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,9559,9553,Not provided,BuildwithMaven,BuildwithMaven
+4,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,9551,9546,Not provided,BuildwithMaven,BuildwithMaven
+5,/home/runner/work/bytecode-viewer/bytecode-viewer/LICENSE,-1,1591,1588,Not provided,uses20,uses20
+6,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,-1,9880,9878,Not provided,BuildwithMaven,BuildwithMaven
+7,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,-1,9876,9874,Not provided,BuildwithMaven,BuildwithMaven
+8,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo.class,-1,9832,9830,Not provided,BuildwithMaven,BuildwithMaven
+9,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$1.class,-1,9828,9826,Not provided,BuildwithMaven,BuildwithMaven
+10,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$IconEntry.class,-1,9824,-1,Not provided,BuildwithMaven,Not provided
+11,/home/runner/work/bytecode-viewer/bytecode-viewer/README.md,-1,1595,1593,Not provided,uses20,uses20
+12,/home/runner/work/bytecode-viewer/bytecode-viewer/VERSION,-1,1603,1601,Not provided,uses20,uses20
+13,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_install BCV.bat,-1,1609,-1,Not provided,uses20,Not provided
+14,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_uninstall BCV.bat,-1,1613,1611,Not provided,uses20,uses20
+15,/home/runner/work/bytecode-viewer/bytecode-viewer/install/jar2exe_config.j2e,-1,1617,1615,Not provided,uses20,uses20
+16,/home/runner/work/bytecode-viewer/bytecode-viewer/install/launch4j_config.xml,-1,1621,1619,Not provided,uses20,uses20
+17,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/README.md,-1,1648,1646,Not provided,uses20,uses20
+18,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.jar.md5,-1,1689,1687,Not provided,uses20,uses20
+19,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/1.0bcv/byteanalysis-1.0bcv.pom.md5,-1,1701,1699,Not provided,uses20,uses20
+20,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml,-1,1709,1707,Not provided,uses20,uses20
+21,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml.md5,-1,1713,1711,Not provided,uses20,uses20
+22,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/eu/bibl/banalysis/byteanalysis/maven-metadata.xml.sha1,-1,1717,1715,Not provided,uses20,uses20
+23,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.jar.md5,-1,1827,1825,Not provided,uses20,uses20
+24,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/1.6.6bcv/jd-gui-1.6.6bcv.pom.md5,-1,1839,1837,Not provided,uses20,uses20
+25,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml,-1,1847,1845,Not provided,uses20,uses20
+26,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml.md5,-1,1851,1849,Not provided,uses20,uses20
+27,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/org/jd/jd-gui/maven-metadata.xml.sha1,-1,1855,1853,Not provided,uses20,uses20
+28,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/ExampleStringDecrypter.gy,-1,1861,-1,Not provided,uses20,Not provided
+29,/home/runner/work/bytecode-viewer/bytecode-viewer/SECURITY.md,-1,1599,1597,Not provided,uses20,uses20
+30,/home/runner/work/bytecode-viewer/bytecode-viewer/CREDITS.md,-1,1586,1584,Not provided,uses20,uses20
+31,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/ExampleStringDecrypter.java,-1,1871,-1,Not provided,uses20,Not provided
+32,/home/runner/work/bytecode-viewer/bytecode-viewer/CONTRIBUTING.md,-1,1582,1580,Not provided,uses20,uses20
+33,/home/runner/work/bytecode-viewer/bytecode-viewer/.github/workflows/maven.yml,-1,1562,1560,Not provided,uses20,uses20
+34,/home/runner/work/bytecode-viewer/bytecode-viewer/.gitignore,-1,1570,1568,Not provided,uses20,uses20
+35,/home/runner/work/bytecode-viewer/bytecode-viewer/BCV Icon.ico,-1,1574,1572,Not provided,uses20,uses20
+36,/home/runner/work/bytecode-viewer/bytecode-viewer/BCV Icon.png,-1,1578,1576,Not provided,uses20,uses20
+37,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/Skeleton.gy,-1,1865,1863,Not provided,uses20,uses20
+38,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/Skeleton.java,-1,1875,1873,Not provided,uses20,uses20
+39,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/XposedGenerator.java,-1,1879,1877,Not provided,uses20,uses20
+40,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExamplePrintClassesPlugin.js,-1,1885,-1,Not provided,uses20,Not provided
+41,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExampleStringDecrypter.js,-1,1889,1887,Not provided,uses20,uses20
+42,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/Skeleton.js,-1,1893,1891,Not provided,uses20,uses20
+43,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/python/skeleton.py,-1,1899,-1,Not provided,uses20,Not provided
+44,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/ruby/Skeleton.rb,-1,1905,-1,Not provided,uses20,Not provided
