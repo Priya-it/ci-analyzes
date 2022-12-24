@@ -1,7 +1,7 @@
 ,file_name
-117,/home/runner/work/JSqlParser/JSqlParser/gradle/wrapper/gradle-wrapper.jar
-189,/home/runner/work/JSqlParser/JSqlParser/config/formatter/eclipse-java-google-style.xml
-1632,/home/runner/work/JSqlParser/JSqlParser/config/spotbugs/spotBugsExcludeFilter.xml
-1634,/home/runner/work/JSqlParser/JSqlParser/.github/ISSUE_TEMPLATE/bug_report.md
-1636,/home/runner/work/JSqlParser/JSqlParser/.github/workflows/maven.yml
-1642,/home/runner/work/JSqlParser/JSqlParser/config/checkstyle/checkstyle.xml
+131,/home/runner/work/JSqlParser/JSqlParser/gradle/wrapper/gradle-wrapper.jar
+265,/home/runner/work/JSqlParser/JSqlParser/config/formatter/eclipse-java-google-style.xml
+1529,/home/runner/work/JSqlParser/JSqlParser/config/spotbugs/spotBugsExcludeFilter.xml
+1532,/home/runner/work/JSqlParser/JSqlParser/config/checkstyle/checkstyle.xml
+1538,/home/runner/work/JSqlParser/JSqlParser/.github/workflows/maven.yml
+1540,/home/runner/work/JSqlParser/JSqlParser/.github/ISSUE_TEMPLATE/bug_report.md
