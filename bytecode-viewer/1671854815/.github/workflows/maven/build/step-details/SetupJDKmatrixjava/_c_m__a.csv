@@ -4,13 +4,13 @@
 2,/home/runner/work/bytecode-viewer/bytecode-viewer/libs/Krakatau-11.zip
 3,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 4,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-5,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$IconEntry.class
-6,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$1.class
-7,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo.class
-8,/home/runner/work/bytecode-viewer/bytecode-viewer/LICENSE
-9,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
-10,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
-11,/home/runner/work/bytecode-viewer/bytecode-viewer/VERSION
+5,/home/runner/work/bytecode-viewer/bytecode-viewer/LICENSE
+6,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+7,/home/runner/work/bytecode-viewer/bytecode-viewer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+8,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo.class
+9,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$1.class
+10,/home/runner/work/bytecode-viewer/bytecode-viewer/target/test-classes/the/bytecode/club/bytecodeviewer/IconDemo$IconEntry.class
+11,/home/runner/work/bytecode-viewer/bytecode-viewer/SECURITY.md
 12,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_uninstall BCV.bat
 13,/home/runner/work/bytecode-viewer/bytecode-viewer/install/jar2exe_config.j2e
 14,/home/runner/work/bytecode-viewer/bytecode-viewer/install/launch4j_config.xml
@@ -28,19 +28,18 @@
 26,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/ExampleStringDecrypter.gy
 27,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/groovy/Skeleton.gy
 28,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/ExampleStringDecrypter.java
-29,/home/runner/work/bytecode-viewer/bytecode-viewer/install/_install BCV.bat
-30,/home/runner/work/bytecode-viewer/bytecode-viewer/SECURITY.md
+29,/home/runner/work/bytecode-viewer/bytecode-viewer/VERSION
+30,/home/runner/work/bytecode-viewer/bytecode-viewer/README.md
 31,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/XposedGenerator.java
-32,/home/runner/work/bytecode-viewer/bytecode-viewer/README.md
+32,/home/runner/work/bytecode-viewer/bytecode-viewer/CREDITS.md
 33,/home/runner/work/bytecode-viewer/bytecode-viewer/.github/workflows/maven.yml
 34,/home/runner/work/bytecode-viewer/bytecode-viewer/.gitignore
 35,/home/runner/work/bytecode-viewer/bytecode-viewer/BCV Icon.ico
 36,/home/runner/work/bytecode-viewer/bytecode-viewer/BCV Icon.png
 37,/home/runner/work/bytecode-viewer/bytecode-viewer/CONTRIBUTING.md
-38,/home/runner/work/bytecode-viewer/bytecode-viewer/CREDITS.md
-39,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/Skeleton.java
-40,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExamplePrintClassesPlugin.js
-41,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExampleStringDecrypter.js
-42,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/Skeleton.js
-43,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/python/skeleton.py
-44,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/ruby/Skeleton.rb
+38,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/java/Skeleton.java
+39,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExamplePrintClassesPlugin.js
+40,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/ExampleStringDecrypter.js
+41,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/javascript/Skeleton.js
+42,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/python/skeleton.py
+43,/home/runner/work/bytecode-viewer/bytecode-viewer/plugins/ruby/Skeleton.rb

@@ -14,16 +14,16 @@
                     │   │       │       └──  createdFiles.lst 0
                     │   │       └──  testCompile 1
                     │   │           └──  default-testCompile 2
-                    │   │               ├──  createdFiles.lst 0
-                    │   │               └──  inputFiles.lst 0
+                    │   │               ├──  inputFiles.lst 0
+                    │   │               └──  createdFiles.lst 0
                     │   └──  test-classes 1
                     │       └──  the 1
                     │           └──  bytecode 1
                     │               └──  club 1
                     │                   └──  bytecodeviewer 3
-                    │                       ├──  IconDemo$IconEntry.class 0
+                    │                       ├──  IconDemo.class 0
                     │                       ├──  IconDemo$1.class 0
-                    │                       └──  IconDemo.class 0
+                    │                       └──  IconDemo$IconEntry.class 0
                     ├──  libs 5
                     │   ├──  enjarify-4.zip 0
                     │   ├──  Krakatau-11.zip 0
@@ -48,12 +48,11 @@
                     │               ├──  maven-metadata.xml.md5 0
                     │               └──  maven-metadata.xml.sha1 0
                     ├──  LICENSE 0
-                    ├──  VERSION 0
-                    ├──  install 4
+                    ├──  SECURITY.md 0
+                    ├──  install 3
                     │   ├──  _uninstall BCV.bat 0
                     │   ├──  jar2exe_config.j2e 0
-                    │   ├──  launch4j_config.xml 0
-                    │   └──  _install BCV.bat 0
+                    │   └──  launch4j_config.xml 0
                     ├──  plugins 5
                     │   ├──  groovy 2
                     │   │   ├──  ExampleStringDecrypter.gy 0
@@ -70,13 +69,13 @@
                     │   │   └──  skeleton.py 0
                     │   └──  ruby 1
                     │       └──  Skeleton.rb 0
-                    ├──  SECURITY.md 0
+                    ├──  VERSION 0
                     ├──  README.md 0
+                    ├──  CREDITS.md 0
                     ├──  .github 1
                     │   └──  workflows 1
                     │       └──  maven.yml 0
                     ├──  .gitignore 0
                     ├──  BCV Icon.ico 0
                     ├──  BCV Icon.png 0
-                    ├──  CONTRIBUTING.md 0
-                    └──  CREDITS.md 0
+                    └──  CONTRIBUTING.md 0
