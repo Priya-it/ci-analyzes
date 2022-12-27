@@ -1,0 +1,66 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/matsim-example-project/matsim-example-project/matsim-example-project-0.0.1-SNAPSHOT.jar,-1,19831,3637,Not provided,BuildwithMaven,BuildwithMaven
+1,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/logfile.log,-1,3156,2277,Not provided,BuildwithMaven,BuildwithMaven
+2,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ph_modestats.png,-1,2942,2595,Not provided,BuildwithMaven,BuildwithMaven
+3,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/stopwatch.png,-1,3010,2698,Not provided,BuildwithMaven,BuildwithMaven
+4,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/pkm_modestats.png,-1,2957,2623,Not provided,BuildwithMaven,BuildwithMaven
+5,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.0/0.events.xml.gz,-1,2564,2420,Not provided,BuildwithMaven,BuildwithMaven
+6,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/logfileWarningsErrors.log,-1,2794,2279,Not provided,BuildwithMaven,BuildwithMaven
+7,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.1/1.plans.xml.gz,-1,2763,2750,Not provided,BuildwithMaven,BuildwithMaven
+8,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.0/0.legHistogram_car.png,-1,2690,2681,Not provided,BuildwithMaven,BuildwithMaven
+9,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.0/0.legHistogram_all.png,-1,2679,2670,Not provided,BuildwithMaven,BuildwithMaven
+10,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/modules.dot,-1,2296,2287,Not provided,BuildwithMaven,BuildwithMaven
+11,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/modestats.png,-1,2882,2874,Not provided,BuildwithMaven,BuildwithMaven
+12,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.1/1.legHistogram_car.png,-1,2993,2985,Not provided,BuildwithMaven,BuildwithMaven
+13,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.1/1.legHistogram_all.png,-1,2983,2975,Not provided,BuildwithMaven,BuildwithMaven
+14,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/traveldistancestatstrips.png,-1,2926,2919,Not provided,BuildwithMaven,BuildwithMaven
+15,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/modestats_stackedbar.png,-1,2891,2884,Not provided,BuildwithMaven,BuildwithMaven
+16,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/traveldistancestatslegs.png,-1,2917,2910,Not provided,BuildwithMaven,BuildwithMaven
+17,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.0/0.legs.csv.gz,-1,2656,2650,Not provided,BuildwithMaven,BuildwithMaven
+18,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/scorestats.png,-1,2905,2899,Not provided,BuildwithMaven,BuildwithMaven
+19,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.0/0.trips.csv.gz,-1,2661,2647,Not provided,BuildwithMaven,BuildwithMaven
+20,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_config.xml,-1,3042,3036,Not provided,BuildwithMaven,BuildwithMaven
+21,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_persons.csv.gz,-1,3151,3146,Not provided,BuildwithMaven,BuildwithMaven
+22,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ph_modestats.txt,-1,2930,2591,Not provided,BuildwithMaven,BuildwithMaven
+23,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/modestats.txt,-1,2872,2573,Not provided,BuildwithMaven,BuildwithMaven
+24,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_allVehicles.xml.gz,-1,3093,3089,Not provided,BuildwithMaven,BuildwithMaven
+25,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_vehicles.xml.gz,-1,3085,3081,Not provided,BuildwithMaven,BuildwithMaven
+26,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/stopwatch.txt,-1,2998,2694,Not provided,BuildwithMaven,BuildwithMaven
+27,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.0/0.plans.xml.gz,-1,2447,2435,Not provided,BuildwithMaven,BuildwithMaven
+28,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/pkm_modestats.txt,-1,2946,2619,Not provided,BuildwithMaven,BuildwithMaven
+29,/home/runner/work/matsim-example-project/matsim-example-project/LICENSE,-1,1210,1204,Not provided,uses-checkout,uses-checkout
+30,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/scorestats.txt,-1,2898,2275,Not provided,BuildwithMaven,BuildwithMaven
+31,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/traveldistancestats.txt,-1,2909,2273,Not provided,BuildwithMaven,BuildwithMaven
+32,/home/runner/work/matsim-example-project/matsim-example-project/scenarios/equil/plans100.xml,-1,1289,1283,Not provided,uses-checkout,uses-checkout
+33,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_counts.xml.gz,-1,3105,3102,Not provided,BuildwithMaven,BuildwithMaven
+34,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_facilities.xml.gz,-1,3077,3074,Not provided,BuildwithMaven,BuildwithMaven
+35,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_network.xml.gz,-1,3033,3030,Not provided,BuildwithMaven,BuildwithMaven
+36,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_households.xml.gz,-1,3100,3096,Not provided,BuildwithMaven,BuildwithMaven
+37,/home/runner/work/matsim-example-project/matsim-example-project/src/main/python/README.md,-1,1359,-1,Not provided,uses-checkout,Not provided
+38,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.1/1.legHistogram.txt,-1,2972,2970,Not provided,BuildwithMaven,BuildwithMaven
+39,/home/runner/work/matsim-example-project/matsim-example-project/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,-1,1812,1810,Not provided,BuildwithMaven,BuildwithMaven
+40,/home/runner/work/matsim-example-project/matsim-example-project/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst,-1,1808,1806,Not provided,BuildwithMaven,BuildwithMaven
+41,/home/runner/work/matsim-example-project/matsim-example-project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,-1,2032,2030,Not provided,BuildwithMaven,BuildwithMaven
+42,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_config_reduced.xml,-1,3072,3044,Not provided,BuildwithMaven,BuildwithMaven
+43,/home/runner/work/matsim-example-project/matsim-example-project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,-1,2036,2034,Not provided,BuildwithMaven,BuildwithMaven
+44,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.1/1.legdurations.txt,-1,2831,2829,Not provided,BuildwithMaven,BuildwithMaven
+45,/home/runner/work/matsim-example-project/matsim-example-project/target/surefire-reports/TEST-org.matsim.project.RunMatsimTest.xml,-1,3185,3183,Not provided,BuildwithMaven,BuildwithMaven
+46,/home/runner/work/matsim-example-project/matsim-example-project/target/surefire-reports/org.matsim.project.RunMatsimTest.txt,-1,3181,3179,Not provided,BuildwithMaven,BuildwithMaven
+47,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_legs.csv.gz,-1,3135,3132,Not provided,BuildwithMaven,BuildwithMaven
+48,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/output_trips.csv.gz,-1,3125,3122,Not provided,BuildwithMaven,BuildwithMaven
+49,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.0/0.legdurations.txt,-1,2528,2526,Not provided,BuildwithMaven,BuildwithMaven
+50,/home/runner/work/matsim-example-project/matsim-example-project/test/output/org/matsim/project/RunMatsimTest/test/ITERS/it.0/0.legHistogram.txt,-1,2666,2664,Not provided,BuildwithMaven,BuildwithMaven
+51,/home/runner/work/matsim-example-project/matsim-example-project/src/main/R/README.md,-1,1302,1295,Not provided,uses-checkout,uses-checkout
+52,/home/runner/work/matsim-example-project/matsim-example-project/.github/workflows/maven.yml,-1,1150,1145,Not provided,uses-checkout,uses-checkout
+53,/home/runner/work/matsim-example-project/matsim-example-project/.gitignore,-1,1166,1161,Not provided,uses-checkout,uses-checkout
+54,/home/runner/work/matsim-example-project/matsim-example-project/.gitlab-ci.yml,-1,1174,1169,Not provided,uses-checkout,uses-checkout
+55,/home/runner/work/matsim-example-project/matsim-example-project/.mvn/wrapper/MavenWrapperDownloader.java,-1,1185,-1,Not provided,uses-checkout,Not provided
+56,/home/runner/work/matsim-example-project/matsim-example-project/.mvn/wrapper/maven-wrapper.properties,-1,1193,1188,Not provided,uses-checkout,uses-checkout
+57,/home/runner/work/matsim-example-project/matsim-example-project/.travis.yml,-1,1201,1196,Not provided,uses-checkout,uses-checkout
+58,/home/runner/work/matsim-example-project/matsim-example-project/README.md,-1,1218,1213,Not provided,uses-checkout,uses-checkout
+59,/home/runner/work/matsim-example-project/matsim-example-project/mvnw,-1,1226,1221,Not provided,uses-checkout,uses-checkout
+60,/home/runner/work/matsim-example-project/matsim-example-project/mvnw.cmd,-1,1234,1229,Not provided,uses-checkout,uses-checkout
+61,/home/runner/work/matsim-example-project/matsim-example-project/original-input-data/README.md,-1,1245,-1,Not provided,uses-checkout,Not provided
+62,/home/runner/work/matsim-example-project/matsim-example-project/scenarios/equil/config.xml,-1,1264,-1,Not provided,uses-checkout,Not provided
+63,/home/runner/work/matsim-example-project/matsim-example-project/scenarios/equil/counts100.xml,-1,1272,1267,Not provided,uses-checkout,uses-checkout
+64,/home/runner/work/matsim-example-project/matsim-example-project/scenarios/equil/network.xml,-1,1280,1275,Not provided,uses-checkout,uses-checkout

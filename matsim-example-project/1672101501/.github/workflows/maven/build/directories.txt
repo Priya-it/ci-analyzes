@@ -1,0 +1,100 @@
+
+└──  home 1
+    └──  runner 1
+        └──  work 1
+            └──  matsim-example-project 1
+                └──  matsim-example-project 15
+                    ├──  matsim-example-project-0.0.1-SNAPSHOT.jar 0
+                    ├──  test 1
+                    │   └──  output 1
+                    │       └──  org 1
+                    │           └──  matsim 1
+                    │               └──  project 1
+                    │                   └──  RunMatsimTest 1
+                    │                       └──  test 29
+                    │                           ├──  logfile.log 0
+                    │                           ├──  ph_modestats.png 0
+                    │                           ├──  stopwatch.png 0
+                    │                           ├──  pkm_modestats.png 0
+                    │                           ├──  ITERS 2
+                    │                           │   ├──  it.0 8
+                    │                           │   │   ├──  0.events.xml.gz 0
+                    │                           │   │   ├──  0.legHistogram_car.png 0
+                    │                           │   │   ├──  0.legHistogram_all.png 0
+                    │                           │   │   ├──  0.legs.csv.gz 0
+                    │                           │   │   ├──  0.trips.csv.gz 0
+                    │                           │   │   ├──  0.plans.xml.gz 0
+                    │                           │   │   ├──  0.legdurations.txt 0
+                    │                           │   │   └──  0.legHistogram.txt 0
+                    │                           │   └──  it.1 5
+                    │                           │       ├──  1.plans.xml.gz 0
+                    │                           │       ├──  1.legHistogram_car.png 0
+                    │                           │       ├──  1.legHistogram_all.png 0
+                    │                           │       ├──  1.legHistogram.txt 0
+                    │                           │       └──  1.legdurations.txt 0
+                    │                           ├──  logfileWarningsErrors.log 0
+                    │                           ├──  modules.dot 0
+                    │                           ├──  modestats.png 0
+                    │                           ├──  traveldistancestatstrips.png 0
+                    │                           ├──  modestats_stackedbar.png 0
+                    │                           ├──  traveldistancestatslegs.png 0
+                    │                           ├──  scorestats.png 0
+                    │                           ├──  output_config.xml 0
+                    │                           ├──  output_persons.csv.gz 0
+                    │                           ├──  ph_modestats.txt 0
+                    │                           ├──  modestats.txt 0
+                    │                           ├──  output_allVehicles.xml.gz 0
+                    │                           ├──  output_vehicles.xml.gz 0
+                    │                           ├──  stopwatch.txt 0
+                    │                           ├──  pkm_modestats.txt 0
+                    │                           ├──  scorestats.txt 0
+                    │                           ├──  traveldistancestats.txt 0
+                    │                           ├──  output_counts.xml.gz 0
+                    │                           ├──  output_facilities.xml.gz 0
+                    │                           ├──  output_network.xml.gz 0
+                    │                           ├──  output_households.xml.gz 0
+                    │                           ├──  output_config_reduced.xml 0
+                    │                           ├──  output_legs.csv.gz 0
+                    │                           └──  output_trips.csv.gz 0
+                    ├──  LICENSE 0
+                    ├──  scenarios 1
+                    │   └──  equil 4
+                    │       ├──  plans100.xml 0
+                    │       ├──  config.xml 0
+                    │       ├──  counts100.xml 0
+                    │       └──  network.xml 0
+                    ├──  src 1
+                    │   └──  main 2
+                    │       ├──  python 1
+                    │       │   └──  README.md 0
+                    │       └──  R 1
+                    │           └──  README.md 0
+                    ├──  target 2
+                    │   ├──  maven-status 1
+                    │   │   └──  maven-compiler-plugin 2
+                    │   │       ├──  compile 1
+                    │   │       │   └──  default-compile 2
+                    │   │       │       ├──  inputFiles.lst 0
+                    │   │       │       └──  createdFiles.lst 0
+                    │   │       └──  testCompile 1
+                    │   │           └──  default-testCompile 2
+                    │   │               ├──  createdFiles.lst 0
+                    │   │               └──  inputFiles.lst 0
+                    │   └──  surefire-reports 2
+                    │       ├──  TEST-org.matsim.project.RunMatsimTest.xml 0
+                    │       └──  org.matsim.project.RunMatsimTest.txt 0
+                    ├──  .github 1
+                    │   └──  workflows 1
+                    │       └──  maven.yml 0
+                    ├──  .gitignore 0
+                    ├──  .gitlab-ci.yml 0
+                    ├──  .mvn 1
+                    │   └──  wrapper 2
+                    │       ├──  MavenWrapperDownloader.java 0
+                    │       └──  maven-wrapper.properties 0
+                    ├──  .travis.yml 0
+                    ├──  README.md 0
+                    ├──  mvnw 0
+                    ├──  mvnw.cmd 0
+                    └──  original-input-data 1
+                        └──  README.md 0
