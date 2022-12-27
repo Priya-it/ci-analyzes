@@ -1,5 +1,7 @@
 ,file_name
-1087,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v2.1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt
-1627,/home/runner/work/fabric-sdk-java/fabric-sdk-java/scripts/changelog.sh
-2450,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/github.com/hyperledger/fabric-chaincode-go/LICENSE
-2463,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/github.com/hyperledger/fabric-protos-go/LICENSE
+2043,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v1.2/crypto-config/peerOrganizations/org1.example.com/users/User1@org1.example.com/tls/ca.crt
+2051,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v1.2/crypto-config/peerOrganizations/org1.example.com/peers/peer1.org1.example.com/msp/admincerts/Admin@org1.example.com-cert.pem
+2140,/home/runner/work/fabric-sdk-java/fabric-sdk-java/scripts/changelog.sh
+2212,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/golang.org/x/net/AUTHORS
+2289,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/example_cc_mv.go
+2444,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/google.golang.org/grpc/internal/envconfig/envconfig.go
