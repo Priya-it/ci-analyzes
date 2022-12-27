@@ -1,4 +1,5 @@
 ,file_name
-1099,/home/runner/work/fabric-sdk-java/fabric-sdk-java/scripts/changelog.sh
-2139,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v1.3/crypto-config/peerOrganizations/org2.example.com/users/User1@org2.example.com/tls/client.crt
-2397,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/github.com/hyperledger/fabric-chaincode-go/LICENSE
+1087,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/e2e-2Orgs/v2.1/crypto-config/ordererOrganizations/example.com/orderers/orderer.example.com/tls/ca.crt
+1627,/home/runner/work/fabric-sdk-java/fabric-sdk-java/scripts/changelog.sh
+2450,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/github.com/hyperledger/fabric-chaincode-go/LICENSE
+2463,/home/runner/work/fabric-sdk-java/fabric-sdk-java/src/test/fixture/sdkintegration/gocc/sample_mv/src/github.com/example_cc/vendor/github.com/hyperledger/fabric-protos-go/LICENSE
