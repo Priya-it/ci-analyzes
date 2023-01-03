@@ -1,0 +1,16 @@
+,file_name
+321,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/common/Configuration.java
+645,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/ChaincodeShim.java
+647,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/etcdraft/Metadata.java
+648,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/etcdraft/Configuration.java
+649,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/Kafka.java
+650,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/Configuration.java
+651,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/orderer/ClusterOuterClass.java
+652,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/ledger/queryresult/KvQueryResult.java
+653,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/Peer.java
+654,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/lifecycle/Db.java
+657,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/grpc-java/org/hyperledger/fabric/protos/peer/ChaincodeSupportGrpc.java
+659,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/transientstore/Transientstore.java
+662,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/SignedCcDepSpec.java
+663,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/java/org/hyperledger/fabric/protos/peer/Resources.java
+1104,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/generated-sources/protobuf/grpc-java/org/hyperledger/fabric/protos/orderer/ClusterGrpc.java
