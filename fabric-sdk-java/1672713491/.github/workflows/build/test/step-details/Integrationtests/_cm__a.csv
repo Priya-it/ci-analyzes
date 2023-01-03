@@ -1,12 +1,5 @@
 ,file_name
-43,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/50da99470bb43f5e74733c0b7556027f/opentelemetry/proto/metrics/v1/metrics.proto
-162,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/46b5611b82ddf0fb573561ea6bf57827/google/cloud/audit/audit_log.proto
-165,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/deb51ede00644caa05697e44151d7bab/google/protobuf/any.proto
-167,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/deb51ede00644caa05697e44151d7bab/google/protobuf/compiler/plugin.proto
-206,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/50da99470bb43f5e74733c0b7556027f/opentelemetry/proto/collector/trace/v1/trace_service.proto
-210,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/50da99470bb43f5e74733c0b7556027f/opentelemetry/proto/trace/v1/trace.proto
-212,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/50da99470bb43f5e74733c0b7556027f/opentelemetry/proto/common/v1/common.proto
-985,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/surefire-reports/org.hyperledger.fabric_ca.sdk.HFCACertificateRequestTest.txt
-995,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/50da99470bb43f5e74733c0b7556027f/opentelemetry/proto/collector/logs/v1/logs_service.proto
-996,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/46b5611b82ddf0fb573561ea6bf57827/google/api/quota.proto
-997,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/protoc-dependencies/50da99470bb43f5e74733c0b7556027f/opentelemetry/proto/collector/metrics/v1/metrics_service.proto
+31,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/org.hyperledger.fabric.sdk.helper/Config.java.html
+705,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/site/jacoco-ut/jacoco-resources/report.css
+728,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/surefire-reports/org.hyperledger.fabric_ca.sdk.HFCACertificateRequestTest.txt
+873,/home/runner/work/fabric-sdk-java/fabric-sdk-java/target/failsafe-reports/org.hyperledger.fabric.sdkintegration.IntegrationSuite.txt
