@@ -1,0 +1,266 @@
+,file_name,last_access_index,last_modify_index,creation_index,last_access_step,last_modify_step,creation_step
+0,/home/runner/work/Algorithms/Algorithms/target/algorithms-1.0-SNAPSHOT.jar,18990,18984,15514,Test,Test,Test
+1,/home/runner/work/Algorithms/Algorithms/target/surefire/surefirebooter5705536389402254973.jar,12551,12534,12513,Test,Test,Test
+2,/home/runner/work/Algorithms/Algorithms/target/surefire/surefire_06559890041730585318tmp,12553,12511,12506,Test,Test,Test
+3,/home/runner/work/Algorithms/Algorithms/target/surefire/surefire3314752584519013286tmp,12556,12504,12499,Test,Test,Test
+4,/home/runner/work/Algorithms/Algorithms/target/checkstyle-checker.xml,2625,2615,2610,Checkjavacheckstyle,Checkjavacheckstyle,Checkjavacheckstyle
+5,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem3/SumBinaryNumberTest.class,12894,10808,-1,Test,Test,Not provided
+6,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem11/IntToStringTest.class,12637,10847,-1,Test,Test,Not provided
+7,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem56/IsRotationUsingIsSubstringTest.class,12917,10772,-1,Test,Test,Not provided
+8,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem73/SubtractAddingTest.class,12819,10778,-1,Test,Test,Not provided
+9,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem49/CombinationsOfChangeTest.class,12751,10784,-1,Test,Test,Not provided
+10,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem57/RemoveListDuplicatedElementsTest.class,12879,10790,-1,Test,Test,Not provided
+11,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem72/FindTheMissingNumberTest.class,12721,10796,-1,Test,Test,Not provided
+12,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem78/AutoBoxingTrickTest.class,12849,10802,-1,Test,Test,Not provided
+13,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem23/RemoveCommentsTest.class,12815,10817,-1,Test,Test,Not provided
+14,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem12/MoveZerosInArrayTest.class,12628,10823,-1,Test,Test,Not provided
+15,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem17/BinaryTreeEqualsTest.class,12717,10973,-1,Test,Test,Not provided
+16,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem33/SimpleRegularExpressionTest.class,12786,10967,-1,Test,Test,Not provided
+17,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem9/FactorialTest.class,12665,10961,-1,Test,Test,Not provided
+18,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem7/FibonacciNumbersTest.class,12794,10955,-1,Test,Test,Not provided
+19,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem44/FindMinNumberAtPositionTest.class,12782,10949,-1,Test,Test,Not provided
+20,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem63/ConstantComplexityOrderStackTest.class,12611,10943,-1,Test,Test,Not provided
+21,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem47/ReturnChangeTest.class,12907,10934,-1,Test,Test,Not provided
+22,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem58/FindKthElementTest.class,12867,10928,-1,Test,Test,Not provided
+23,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem70/ReverseOrderOfBinaryNumberTest.class,12615,10922,-1,Test,Test,Not provided
+24,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem62/PalindromeListTest.class,12708,10916,-1,Test,Test,Not provided
+25,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem6/MergeSortedArraysTest.class,12845,10910,-1,Test,Test,Not provided
+26,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem5/DivideUsingSubtractionTest.class,12730,10904,-1,Test,Test,Not provided
+27,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem45/FindNthMostRepeatedElementTest.class,12649,10898,-1,Test,Test,Not provided
+28,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem22/ReverseLinkedListTest.class,12599,10892,-1,Test,Test,Not provided
+29,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem36/AvlTreeMedianTest.class,12799,10886,-1,Test,Test,Not provided
+30,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem46/BinaryTreeSerializationTest.class,12738,10880,-1,Test,Test,Not provided
+31,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem54/RotateMatrixTest.class,12669,10829,-1,Test,Test,Not provided
+32,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem26/PalindromesTest.class,12862,10874,-1,Test,Test,Not provided
+33,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem66/TreeToListByLevelTest.class,12803,10868,-1,Test,Test,Not provided
+34,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem51/ReverseStringTest.class,12734,10835,-1,Test,Test,Not provided
+35,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem75/SelectionSortTest.class,12910,10862,-1,Test,Test,Not provided
+36,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem34/DotRegularExpressionTest.class,12790,10841,-1,Test,Test,Not provided
+37,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem50/UniqueCharsTest.class,12607,10853,-1,Test,Test,Not provided
+38,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem24/SortedArrayToBSTTest.class,12595,10979,-1,Test,Test,Not provided
+39,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem21/LowestCommonAncestorTest.class,12858,10985,-1,Test,Test,Not provided
+40,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem16/BinaryTreePostOrderTest.class,12633,10991,-1,Test,Test,Not provided
+41,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem1/BitsCounterTest.class,12661,11075,-1,Test,Test,Not provided
+42,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem80/QuickSortTest.class,12886,11141,-1,Test,Test,Not provided
+43,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem39/MultiplyArrayElementsTest.class,12742,11132,-1,Test,Test,Not provided
+44,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem43/CombinationOfIntegersTest.class,12903,11126,-1,Test,Test,Not provided
+45,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem68/IsEvenTest.class,12755,11120,-1,Test,Test,Not provided
+46,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem29/AreAnagramsTest.class,12591,11114,-1,Test,Test,Not provided
+47,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem28/FindSumsTest.class,12686,11102,-1,Test,Test,Not provided
+48,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem40/MoveElementsToPositionsTest.class,12712,11096,-1,Test,Test,Not provided
+49,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem71/ReverseBinaryNumberTest.class,12623,11090,-1,Test,Test,Not provided
+50,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem76/InsertionSortTest.class,12572,11084,-1,Test,Test,Not provided
+51,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem13/BinaryTreeByLevelTest.class,12854,11069,-1,Test,Test,Not provided
+52,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem79/MergeSortTest.class,12870,11000,-1,Test,Test,Not provided
+53,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem14/BinaryTreePreOrderTest.class,12747,11063,-1,Test,Test,Not provided
+54,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem61/SumListsTest.class,12565,11057,-1,Test,Test,Not provided
+55,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem55/RewriteRowAndColumnsWithZerosTest.class,12682,11051,-1,Test,Test,Not provided
+56,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem59/DeleteListNodeTest.class,12841,11045,-1,Test,Test,Not provided
+57,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem32/ContainsTest.class,12645,11039,-1,Test,Test,Not provided
+58,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem10/RemoveDuplicatesTest.class,12824,11033,-1,Test,Test,Not provided
+59,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem4/SquareRootTest.class,12641,11027,-1,Test,Test,Not provided
+60,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem27/ReverseSentenceTest.class,12678,11021,-1,Test,Test,Not provided
+61,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem2/VectorScalarProductTest.class,12619,11015,-1,Test,Test,Not provided
+62,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem19/BinaryTreeDepthTest.class,12699,11006,-1,Test,Test,Not provided
+63,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem60/PartitionListTest.class,12829,11108,-1,Test,Test,Not provided
+64,/home/runner/work/Algorithms/Algorithms/target/maven-archiver/pom.properties,17235,13839,-1,Test,Test,Not provided
+65,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem64/GetTheElementInTheMiddleOfTheListTest.class,12899,10760,-1,Test,Test,Not provided
+66,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem37/PathCalculatorTest.class,12811,10766,-1,Test,Test,Not provided
+67,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem8/SplitArrayTest.class,12726,10754,-1,Test,Test,Not provided
+68,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem33/SimpleRegularExpression.java,4463,1054,-1,Test,uses-checkout,Not provided
+69,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem59/DeleteListNode.java,4442,1218,-1,Test,uses-checkout,Not provided
+70,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem58/FindKthElement.java,4478,1212,-1,Test,uses-checkout,Not provided
+71,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem57/RemoveListDuplicatedElements.java,4559,1206,-1,Test,uses-checkout,Not provided
+72,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem56/IsRotationUsingIsSubstring.java,4511,1200,-1,Test,uses-checkout,Not provided
+73,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem55/RewriteRowAndColumnsWithZeros.java,4430,1194,-1,Test,uses-checkout,Not provided
+74,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem54/RotateMatrix.java,4472,1188,-1,Test,uses-checkout,Not provided
+75,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem53/CompressString.java,4547,1182,-1,Test,uses-checkout,Not provided
+76,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem52/ReplaceSpaces.java,4526,1176,-1,Test,uses-checkout,Not provided
+77,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem51/ReverseString.java,4541,1170,-1,Test,uses-checkout,Not provided
+78,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem5/DivideUsingSubtraction.java,4439,1160,-1,Test,uses-checkout,Not provided
+79,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem49/CombinationsOfChange.java,4568,1154,-1,Test,uses-checkout,Not provided
+80,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem48/WordSearch.java,4454,1148,-1,Test,uses-checkout,Not provided
+81,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem47/ReturnChange.java,4412,1142,-1,Test,uses-checkout,Not provided
+82,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem46/BinaryTreeSerialization.java,4400,1136,-1,Test,uses-checkout,Not provided
+83,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem45/FindNthMostRepeatedElement.java,4571,1130,-1,Test,uses-checkout,Not provided
+84,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem44/FindMinNumberAtPosition.java,4427,1124,-1,Test,uses-checkout,Not provided
+85,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem43/CombinationOfIntegers.java,4583,1118,-1,Test,uses-checkout,Not provided
+86,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem42/FloodFill.java,4355,1112,-1,Test,uses-checkout,Not provided
+87,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem41/GoThroughMatrixInSpiral.java,4601,1106,-1,Test,uses-checkout,Not provided
+88,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem40/MoveElementsToPositions.java,4436,1100,-1,Test,uses-checkout,Not provided
+89,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem4/SquareRoot.java,4544,1094,-1,Test,uses-checkout,Not provided
+90,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem39/MultiplyArrayElements.java,4403,1088,-1,Test,uses-checkout,Not provided
+91,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem38/PathToEveryLeaf.java,4562,1082,-1,Test,uses-checkout,Not provided
+92,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem37/PathCalculator.java,4520,1076,-1,Test,uses-checkout,Not provided
+93,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem36/AvlTreeMedian.java,4529,1070,-1,Test,uses-checkout,Not provided
+94,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem6/MergeSortedArrays.java,4460,1224,-1,Test,uses-checkout,Not provided
+95,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem60/PartitionList.java,4352,1230,-1,Test,uses-checkout,Not provided
+96,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem61/SumLists.java,4502,1236,-1,Test,uses-checkout,Not provided
+97,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem75/SelectionSort.java,4406,1324,-1,Test,uses-checkout,Not provided
+98,/home/runner/work/Algorithms/Algorithms/src/test/java/com/github/pedrovgs/problem12/MoveZerosInArrayTest.java,8867,1398,-1,Test,uses-checkout,Not provided
+99,/home/runner/work/Algorithms/Algorithms/src/test/java/com/github/pedrovgs/problem11/IntToStringTest.java,8879,1392,-1,Test,uses-checkout,Not provided
+100,/home/runner/work/Algorithms/Algorithms/src/test/java/com/github/pedrovgs/problem10/RemoveDuplicatesTest.java,8966,1386,-1,Test,uses-checkout,Not provided
+101,/home/runner/work/Algorithms/Algorithms/src/test/java/com/github/pedrovgs/problem1/BitsCounterTest.java,8987,1380,1376,Test,uses-checkout,uses-checkout
+102,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/sortingalgorithm/SortingAlgorithm.java,4508,1371,-1,Test,uses-checkout,Not provided
+103,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem9/Factorial.java,4592,1365,-1,Test,uses-checkout,Not provided
+104,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem80/QuickSort.java,4574,1359,-1,Test,uses-checkout,Not provided
+105,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem8/SplitArray.java,4496,1353,-1,Test,uses-checkout,Not provided
+106,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem79/MergeSort.java,4421,1347,-1,Test,uses-checkout,Not provided
+107,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem78/AutoBoxingTrick.java,4433,1341,-1,Test,uses-checkout,Not provided
+108,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem76/InsertionSort.java,4505,1330,-1,Test,uses-checkout,Not provided
+109,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem74/BubbleSort.java,4379,1318,-1,Test,uses-checkout,Not provided
+110,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem62/PalindromeList.java,4457,1242,-1,Test,uses-checkout,Not provided
+111,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem73/SubtractAdding.java,4565,1312,-1,Test,uses-checkout,Not provided
+112,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem72/FindTheMissingNumber.java,4517,1306,-1,Test,uses-checkout,Not provided
+113,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem71/ReverseBinaryNumber.java,4358,1300,-1,Test,uses-checkout,Not provided
+114,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem70/ReverseOrderOfBinaryNumber.java,4448,1294,-1,Test,uses-checkout,Not provided
+115,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem7/FibonacciNumbers.java,4493,1288,-1,Test,uses-checkout,Not provided
+116,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem69/BitsToTransform.java,4532,1282,-1,Test,uses-checkout,Not provided
+117,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem68/IsEven.java,4391,1276,-1,Test,uses-checkout,Not provided
+118,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem67/MergeBinaryNumbers.java,4349,1270,-1,Test,uses-checkout,Not provided
+119,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem66/TreeToListByLevel.java,4364,1264,-1,Test,uses-checkout,Not provided
+120,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem65/IsTreeBalanced.java,4367,1258,-1,Test,uses-checkout,Not provided
+121,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem63/ConstantComplexityOrderStack.java,4523,1248,-1,Test,uses-checkout,Not provided
+122,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem34/DotRegularExpression.java,4373,1060,-1,Test,uses-checkout,Not provided
+123,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem32/Contains.java,4514,1048,-1,Test,uses-checkout,Not provided
+124,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem25/AnagramsTest.class,12653,10748,-1,Test,Test,Not provided
+125,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem31/FindLongestConsecutiveSequence.java,4577,1042,-1,Test,uses-checkout,Not provided
+126,/home/runner/work/Algorithms/Algorithms/pom.xml,18993,864,862,Test,uses-checkout,uses-checkout
+127,/home/runner/work/Algorithms/Algorithms/checkstyle.xml,2614,860,858,Checkjavacheckstyle,uses-checkout,uses-checkout
+128,/home/runner/work/Algorithms/Algorithms/.github/workflows/script.py,19007,844,842,finished,uses-checkout,uses-checkout
+129,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/binarytree/BinaryNode.java,4385,873,869,Test,uses-checkout,uses-checkout
+130,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/linkedlist/ListNode.java,4376,879,-1,Test,uses-checkout,Not provided
+131,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/pair/Pair.java,4382,885,-1,Test,uses-checkout,Not provided
+132,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem21/LowestCommonAncestor.java,4481,972,-1,Test,uses-checkout,Not provided
+133,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem30/ScientificNotation.java,4490,1036,-1,Test,uses-checkout,Not provided
+134,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem3/SumBinaryNumbers.java,4604,1030,-1,Test,uses-checkout,Not provided
+135,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem29/AreAnagrams.java,4361,1024,-1,Test,uses-checkout,Not provided
+136,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem28/FindSums.java,4586,1018,-1,Test,uses-checkout,Not provided
+137,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem27/ReverseSentence.java,4370,1012,-1,Test,uses-checkout,Not provided
+138,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem26/Palindromes.java,4595,1006,-1,Test,uses-checkout,Not provided
+139,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem25/Anagrams.java,4424,1000,-1,Test,uses-checkout,Not provided
+140,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem24/SortedArrayToBST.java,4580,994,-1,Test,uses-checkout,Not provided
+141,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem23/RemoveComments.java,4553,988,986,Test,uses-checkout,uses-checkout
+142,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem23/FakeFile.java,4535,984,-1,Test,uses-checkout,Not provided
+143,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem22/ReverseLinkedList.java,4445,978,-1,Test,uses-checkout,Not provided
+144,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem20/MultiplicationWithoutMultiply.java,4466,966,-1,Test,uses-checkout,Not provided
+145,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem1/BitsCounter.java,4550,891,-1,Test,uses-checkout,Not provided
+146,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem2/VectorScalarProduct.java,4475,960,958,Test,uses-checkout,uses-checkout
+147,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem2/Vector.java,4388,956,-1,Test,uses-checkout,Not provided
+148,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem19/BinaryTreeDepth.java,4598,950,-1,Test,uses-checkout,Not provided
+149,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem18/IsBST.java,4409,944,-1,Test,uses-checkout,Not provided
+150,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem17/BinaryTreeEquals.java,4397,938,-1,Test,uses-checkout,Not provided
+151,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem15/BinaryTreeInOrder.java,4556,927,-1,Test,uses-checkout,Not provided
+152,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem14/BinaryTreePreOrder.java,4538,921,-1,Test,uses-checkout,Not provided
+153,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem13/BinaryTreeByLevel.java,4499,915,-1,Test,uses-checkout,Not provided
+154,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem12/MoveZerosInArray.java,4451,909,-1,Test,uses-checkout,Not provided
+155,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem11/IntToString.java,4469,903,-1,Test,uses-checkout,Not provided
+156,/home/runner/work/Algorithms/Algorithms/src/main/java/com/github/pedrovgs/problem10/RemoveDuplicates.java,4418,897,-1,Test,uses-checkout,Not provided
+157,/home/runner/work/Algorithms/Algorithms/src/test/java/com/github/pedrovgs/problem13/BinaryTreeByLevelTest.java,8984,1404,-1,Test,uses-checkout,Not provided
+158,/home/runner/work/Algorithms/Algorithms/src/test/java/com/github/pedrovgs/problem29/AreAnagramsTest.java,9005,1477,-1,Test,uses-checkout,Not provided
+159,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem80/QuickSort.class,17103,5924,5922,Test,Test,Test
+160,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem45/FindNthMostRepeatedElement.class,16441,5916,5914,Test,Test,Test
+161,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem49/CombinationsOfChange.class,16726,5908,5906,Test,Test,Test
+162,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem73/SubtractAdding.class,16922,5900,5898,Test,Test,Test
+163,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem38/PathToEveryLeaf.class,16577,5892,5890,Test,Test,Test
+164,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem57/RemoveListDuplicatedElements.class,17079,5884,5882,Test,Test,Test
+165,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem23/RemoveComments.class,16899,5876,5874,Test,Test,Test
+166,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem1/BitsCounter.class,16475,5872,5870,Test,Test,Test
+167,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem53/CompressString.class,16794,5864,5862,Test,Test,Test
+168,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem4/SquareRoot.class,16419,5856,5854,Test,Test,Test
+169,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem51/ReverseString.class,16680,5848,5846,Test,Test,Test
+170,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem14/BinaryTreePreOrder.class,16714,5840,5838,Test,Test,Test
+171,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem23/FakeFile.class,16909,5832,5830,Test,Test,Test
+172,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem69/BitsToTransform.class,16247,5824,5822,Test,Test,Test
+173,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem36/AvlTreeMedian.class,16852,5816,5814,Test,Test,Test
+174,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem52/ReplaceSpaces.class,16760,5808,5806,Test,Test,Test
+175,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem63/ConstantComplexityOrderStack.class,16314,5800,5798,Test,Test,Test
+176,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem63/ConstantComplexityOrderStack$Stack2.class,16281,5796,5794,Test,Test,Test
+177,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem63/ConstantComplexityOrderStack$MinValue.class,16292,5792,5790,Test,Test,Test
+178,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem63/ConstantComplexityOrderStack$Stack1.class,16303,5788,5786,Test,Test,Test
+179,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem37/PathCalculator.class,16886,5780,5778,Test,Test,Test
+180,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem72/FindTheMissingNumber.class,16646,5772,5770,Test,Test,Test
+181,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem32/Contains.class,16430,5764,5762,Test,Test,Test
+182,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem56/IsRotationUsingIsSubstring.class,17186,5756,5754,Test,Test,Test
+183,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem76/InsertionSort.class,16182,5748,5746,Test,Test,Test
+184,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem31/FindLongestConsecutiveSequence.class,16519,5932,5930,Test,Test,Test
+185,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem24/SortedArrayToBST.class,16225,5940,5938,Test,Test,Test
+186,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem43/CombinationOfIntegers.class,17137,5948,5946,Test,Test,Test
+187,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem53/CompressStringTest.class,12778,10672,10670,Test,Test,Test
+188,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem38/PathToEveryLeafTest.class,12691,10742,-1,Test,Test,Not provided
+189,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem18/IsBSTTest.class,12703,10736,-1,Test,Test,Not provided
+190,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem20/MultiplicationWithoutMultiplyTest.class,12657,10730,-1,Test,Test,Not provided
+191,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem52/ReplaceSpacesTest.class,12765,10724,-1,Test,Test,Not provided
+192,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem30/ScientificNotationTest.class,12769,10712,-1,Test,Test,Not provided
+193,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem31/FindLongestConsecutiveSequenceTest.class,12674,10706,-1,Test,Test,Not provided
+194,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem67/MergeBinaryNumbersTest.class,12587,10700,-1,Test,Test,Not provided
+195,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem41/GoThroughMatrixInSpiralTest.class,12837,10694,-1,Test,Test,Not provided
+196,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem35/AsteriskRegularExpressionTest.class,12833,10688,10686,Test,Test,Test
+197,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem48/WordSearchTest.class,12773,10680,10678,Test,Test,Test
+198,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem65/IsTreeBalancedTest.class,12807,10664,10662,Test,Test,Test
+199,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem28/FindSums.class,16564,5956,5954,Test,Test,Test
+200,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem15/BinaryTreeInOrderTest.class,12760,10656,10654,Test,Test,Test
+201,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/sortingalgorithms/SortingAlgorithmTest.class,12560,10648,10646,Test,Test,Test
+202,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem74/BubbleSortTest.class,12581,10640,10638,Test,Test,Test
+203,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem69/BitsToTransformTest.class,12603,10629,10627,Test,Test,Test
+204,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem3/SumBinaryNumbers.class,17113,6004,6002,Test,Test,Test
+205,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem41/GoThroughMatrixInSpiral.class,16969,5996,5994,Test,Test,Test
+206,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem19/BinaryTreeDepth.class,16589,5988,5986,Test,Test,Test
+207,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem26/Palindromes.class,17044,5980,5978,Test,Test,Test
+208,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem9/Factorial.class,16497,5972,5970,Test,Test,Test
+209,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem50/UniqueChars.class,16258,5964,5962,Test,Test,Test
+210,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem61/SumLists.class,16170,5740,5738,Test,Test,Test
+211,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem13/BinaryTreeByLevel.class,17018,5732,5730,Test,Test,Test
+212,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem8/SplitArray.class,16657,5724,5722,Test,Test,Test
+213,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem27/ReverseSentence.class,16530,5400,5398,Test,Test,Test
+214,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem75/SelectionSort.class,17174,5488,5486,Test,Test,Test
+215,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem39/MultiplyArrayElements.class,16703,5480,5478,Test,Test,Test
+216,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem46/BinaryTreeSerialization.class,16691,5472,5470,Test,Test,Test
+217,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem17/BinaryTreeEquals.class,16634,5464,5462,Test,Test,Test
+218,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem35/AsteriskRegularExpression.class,16957,5456,5454,Test,Test,Test
+219,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem68/IsEven.class,16737,5448,5446,Test,Test,Test
+220,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem2/Vector.class,16350,5440,5438,Test,Test,Test
+221,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/pair/Pair.class,16486,5432,5430,Test,Test,Test
+222,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/sortingalgorithm/SortingAlgorithm.class,17149,5424,5422,Test,Test,Test
+223,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem74/BubbleSort.class,16193,5416,5414,Test,Test,Test
+224,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem34/DotRegularExpression.class,16830,5408,5406,Test,Test,Test
+225,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem65/IsTreeBalanced.class,16874,5392,5390,Test,Test,Test
+226,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem15/BinaryTreeInOrder.class,16747,5504,5502,Test,Test,Test
+227,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/binarytree/BinaryNode.class,16269,5384,5382,Test,Test,Test
+228,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem66/TreeToListByLevel.class,16863,5376,5374,Test,Test,Test
+229,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem29/AreAnagrams.class,16215,5368,5366,Test,Test,Test
+230,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem70/ReverseOrderOfBinaryNumber.class,16325,5360,5358,Test,Test,Test
+231,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem71/ReverseBinaryNumber.class,16361,5352,5350,Test,Test,Test
+232,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem42/FloodFill.class,17092,5344,5342,Test,Test,Test
+233,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/linkedlist/ListNode.class,16541,5336,5334,Test,Test,Test
+234,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem60/PartitionList.class,16945,5328,5326,Test,Test,Test
+235,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem67/MergeBinaryNumbers.class,16204,5320,5318,Test,Test,Test
+236,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem18/IsBST.class,16600,5496,5494,Test,Test,Test
+237,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem47/ReturnChange.class,17162,5512,5510,Test,Test,Test
+238,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem7/FibonacciNumbers.class,16841,5716,5714,Test,Test,Test
+239,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem62/PalindromeList.class,16612,5624,5622,Test,Test,Test
+240,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem30/ScientificNotation.class,16771,5708,5706,Test,Test,Test
+241,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem64/GetTheElementInTheMiddleOfTheList.class,17126,5700,5698,Test,Test,Test
+242,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem16/BinaryTreePostOrder.class,16395,5692,5690,Test,Test,Test
+243,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem21/LowestCommonAncestor.class,17030,5684,5682,Test,Test,Test
+244,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem58/FindKthElement.class,17056,5676,5674,Test,Test,Test
+245,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem2/VectorScalarProduct.class,16337,5668,5666,Test,Test,Test
+246,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem54/RotateMatrix.class,16508,5664,5662,Test,Test,Test
+247,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem11/IntToString.class,16407,5656,5654,Test,Test,Test
+248,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem20/MultiplicationWithoutMultiply.class,16464,5648,5646,Test,Test,Test
+249,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem33/SimpleRegularExpression.class,16819,5640,5638,Test,Test,Test
+250,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem6/MergeSortedArrays.class,16993,5632,5630,Test,Test,Test
+251,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem48/WordSearch.class,16782,5616,5614,Test,Test,Test
+252,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem77/HelloWorldWithoutSemicolon.class,16372,5520,5518,Test,Test,Test
+253,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem12/MoveZerosInArray.class,16383,5608,5606,Test,Test,Test
+254,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem22/ReverseLinkedList.class,16236,5600,5598,Test,Test,Test
+255,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem59/DeleteListNode.class,16982,5592,5590,Test,Test,Test
+256,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem5/DivideUsingSubtraction.class,16669,5584,5582,Test,Test,Test
+257,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem40/MoveElementsToPositions.class,16623,5576,5574,Test,Test,Test
+258,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem78/AutoBoxingTrick.class,17005,5568,5566,Test,Test,Test
+259,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem55/RewriteRowAndColumnsWithZeros.class,16552,5560,5558,Test,Test,Test
+260,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem44/FindMinNumberAtPosition.class,16806,5552,5550,Test,Test,Test
+261,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem25/Anagrams.class,16453,5544,5542,Test,Test,Test
+262,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem79/MergeSort.class,17068,5536,5534,Test,Test,Test
+263,/home/runner/work/Algorithms/Algorithms/target/classes/com/github/pedrovgs/problem10/RemoveDuplicates.class,16933,5528,5526,Test,Test,Test
+264,/home/runner/work/Algorithms/Algorithms/target/test-classes/com/github/pedrovgs/problem42/FloodFillTest.class,12883,10718,-1,Test,Test,Not provided
